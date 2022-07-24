@@ -10,7 +10,7 @@ class TestSum(unittest.TestCase):
         self.assertEqual(sum((1, 2, 4)), 6, "Should be 6")
 
 
-print("Added New Feature to test github")
+print("Added New Feature to test github/ Checking for conflict")
 
 if __name__ == '__main__':
     unittest.main()

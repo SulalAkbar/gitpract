@@ -9,5 +9,8 @@ class TestSum(unittest.TestCase):
     def test_sum_tuple(self):
         self.assertEqual(sum((1, 2, 4)), 6, "Should be 6")
 
+
+print("Added New Feature to test github")
+
 if __name__ == '__main__':
     unittest.main()

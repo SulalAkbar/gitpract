@@ -11,6 +11,7 @@ class TestCalc(unittest.TestCase):
         print("Testing ....")
         print("Testing Again ....")
         print("Testing Again and Again ....")
+        print("Changes made on local repository .....")
 
 
 if __name__ == '__main__':
